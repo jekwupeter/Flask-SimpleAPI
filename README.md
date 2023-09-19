@@ -1,2 +1,2 @@
 # Flask-SimpleAPI
-A simple  scheduled payment CRUD application.
+A simple payment scheduling CRUD application.
